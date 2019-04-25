@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Py_Text_Recognition</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>FontStudyTool.py</name>
+			<type>1</type>
+			<location>/local/mnt/workspace/qgao/Dropbox/MyWork/TextRecognition/Programs/PythonCode/FontStudyTool.py</location>
+		</link>
+		<link>
+			<name>GetTextImageGaps.py</name>
+			<type>1</type>
+			<location>/local/mnt/workspace/qgao/Dropbox/MyWork/TextRecognition/Programs/PythonCode/GetTextImageGaps.py</location>
+		</link>
+		<link>
+			<name>StudyCharAspectRatio.py</name>
+			<type>1</type>
+			<location>/local/mnt/workspace/qgao/Dropbox/MyWork/TextRecognition/Programs/PythonCode/StudyCharAspectRatio.py</location>
+		</link>
+	</linkedResources>
+</projectDescription>

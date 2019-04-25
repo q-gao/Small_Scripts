@@ -1,0 +1,553 @@
+<MessageCodingDataList>
+<MessageCodingData>
+<MinFileSize>0</MinFileSize>
+<MaxFileSize>50000</MaxFileSize>
+<PayloadSize>512</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0</MinEpsilon>
+<MaxEpsilon>20</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>20</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="1"/>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>50000</MinFileSize>
+<MaxFileSize>100000</MaxFileSize>
+<PayloadSize>512</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0</MinEpsilon>
+<MaxEpsilon>13</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>13</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="1"/>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>100000</MinFileSize>
+<MaxFileSize>140000</MaxFileSize>
+<PayloadSize>512</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0</MinEpsilon>
+<MaxEpsilon>7.2</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>7.2</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="1"/>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>140000</MinFileSize>
+<MaxFileSize>160000</MaxFileSize>
+<PayloadSize>512</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0</MinEpsilon>
+<MaxEpsilon>6</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>6</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="1"/>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>160000</MinFileSize>
+<MaxFileSize>190000</MaxFileSize>
+<PayloadSize>512</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0</MinEpsilon>
+<MaxEpsilon>5.1</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>5.1</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="1"/>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>190000</MinFileSize>
+<MaxFileSize>220000</MaxFileSize>
+<PayloadSize>512</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0</MinEpsilon>
+<MaxEpsilon>4.5</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>4.5</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="1"/>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>220000</MinFileSize>
+<MaxFileSize>250000</MaxFileSize>
+<PayloadSize>512</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0</MinEpsilon>
+<MaxEpsilon>3.9</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>3.9</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="1"/>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>250000</MinFileSize>
+<MaxFileSize>300000</MaxFileSize>
+<PayloadSize>512</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0</MinEpsilon>
+<MaxEpsilon>3.2</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>3.2</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="1"/>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>300000</MinFileSize>
+<MaxFileSize>350000</MaxFileSize>
+<PayloadSize>512</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0</MinEpsilon>
+<MaxEpsilon>2.8</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>2.8</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="1"/>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>350000</MinFileSize>
+<MaxFileSize>400000</MaxFileSize>
+<PayloadSize>512</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0</MinEpsilon>
+<MaxEpsilon>2.6</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>2.6</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="1"/>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>400000</MinFileSize>
+<MaxFileSize>500000</MaxFileSize>
+<PayloadSize>128</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0.2</MinEpsilon>
+<MaxEpsilon>0.5</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>2.5</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="0.4"/>
+<LDGM>
+<WeightRecord Weight="4" Fraction=" 0.444485"/>
+<WeightRecord Weight="53" Fraction=" 0.004761"/>
+<WeightRecord Weight="24" Fraction=" 0.029810"/>
+<WeightRecord Weight="500" Fraction=" 0.025000"/>
+<WeightRecord Weight="23" Fraction=" 0.065818"/>
+<WeightRecord Weight="54" Fraction=" 0.027884"/>
+<WeightRecord Weight="5" Fraction=" 0.402241"/>
+</LDGM>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>500000</MinFileSize>
+<MaxFileSize>750000</MaxFileSize>
+<PayloadSize>128</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0.2</MinEpsilon>
+<MaxEpsilon>0.5</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>2.0269632237155282</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="0.49334886213028989"/>
+<LDGM>
+<WeightRecord Weight="6" Fraction=" 0.117323"/>
+<WeightRecord Weight="46" Fraction=" 0.024895"/>
+<WeightRecord Weight="30" Fraction=" 0.018721"/>
+<WeightRecord Weight="500" Fraction=" 0.029563"/>
+<WeightRecord Weight="31" Fraction=" 0.068728"/>
+<WeightRecord Weight="5" Fraction=" 0.740770"/>
+</LDGM>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>750000</MinFileSize>
+<MaxFileSize>1000000</MaxFileSize>
+<PayloadSize>128</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0.2</MinEpsilon>
+<MaxEpsilon>0.5</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>1.9295266494070613</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="0.51826182359663053"/>
+<LDGM>
+<WeightRecord Weight="6" Fraction=" 0.440344"/>
+<WeightRecord Weight="36" Fraction=" 0.023028"/>
+<WeightRecord Weight="37" Fraction=" 0.080385"/>
+<WeightRecord Weight="500" Fraction=" 0.031667"/>
+<WeightRecord Weight="5" Fraction=" 0.424575"/>
+</LDGM>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>1000000</MinFileSize>
+<MaxFileSize>1250000</MaxFileSize>
+<PayloadSize>256</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0.15</MinEpsilon>
+<MaxEpsilon>0.4</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>1.7948702234114304</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="0.55714334493740958"/>
+<LDGM>
+<WeightRecord Weight="6" Fraction=" 0.691888"/>
+<WeightRecord Weight="7" Fraction=" 0.179944"/>
+<WeightRecord Weight="500" Fraction=" 0.033987"/>
+<WeightRecord Weight="41" Fraction=" 0.094181"/>
+</LDGM>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>1250000</MinFileSize>
+<MaxFileSize>1500000</MaxFileSize>
+<PayloadSize>512</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0.15</MinEpsilon>
+<MaxEpsilon>0.3</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>1.7468615518139006</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="0.57245521201243632"/>
+<LDGM>
+<WeightRecord Weight="42" Fraction=" 0.012771"/>
+<WeightRecord Weight="6" Fraction=" 0.514353"/>
+<WeightRecord Weight="7" Fraction=" 0.359924"/>
+<WeightRecord Weight="500" Fraction=" 0.035000"/>
+<WeightRecord Weight="43" Fraction=" 0.077953"/>
+</LDGM>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>1500000</MinFileSize>
+<MaxFileSize>2000000</MaxFileSize>
+<PayloadSize>512</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0.15</MinEpsilon>
+<MaxEpsilon>0.3</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>1.7085904113993959</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="0.5852777782950126"/>
+<LDGM>
+<WeightRecord Weight="6" Fraction=" 0.686861"/>
+<WeightRecord Weight="40" Fraction=" 0.002254"/>
+<WeightRecord Weight="7" Fraction=" 0.180181"/>
+<WeightRecord Weight="500" Fraction=" 0.036127"/>
+<WeightRecord Weight="41" Fraction=" 0.094577"/>
+</LDGM>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>2000000</MinFileSize>
+<MaxFileSize>2500000</MaxFileSize>
+<PayloadSize>512</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0.12</MinEpsilon>
+<MaxEpsilon>0.2</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>1.612029141249123</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="0.62033618029083759"/>
+<LDGM>
+<WeightRecord Weight="6" Fraction=" 0.185788"/>
+<WeightRecord Weight="46" Fraction=" 0.089301"/>
+<WeightRecord Weight="7" Fraction=" 0.685321"/>
+<WeightRecord Weight="500" Fraction=" 0.039590"/>
+</LDGM>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>2500000</MinFileSize>
+<MaxFileSize>3000000</MaxFileSize>
+<PayloadSize>512</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0.12</MinEpsilon>
+<MaxEpsilon>0.2</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>1.5689110502370707</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="0.63738476432357005"/>
+<LDGM>
+<WeightRecord Weight="8" Fraction=" 0.021250"/>
+<WeightRecord Weight="46" Fraction=" 0.064890"/>
+<WeightRecord Weight="7" Fraction=" 0.847190"/>
+<WeightRecord Weight="500" Fraction=" 0.041316"/>
+<WeightRecord Weight="47" Fraction=" 0.025354"/>
+</LDGM>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>3000000</MinFileSize>
+<MaxFileSize>3500000</MaxFileSize>
+<PayloadSize>512</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0.12</MinEpsilon>
+<MaxEpsilon>0.2</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>1.5345385408420686</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="0.65166170375314014"/>
+<LDGM>
+<WeightRecord Weight="8" Fraction=" 0.328191"/>
+<WeightRecord Weight="50" Fraction=" 0.063614"/>
+<WeightRecord Weight="49" Fraction=" 0.021868"/>
+<WeightRecord Weight="7" Fraction=" 0.543025"/>
+<WeightRecord Weight="500" Fraction=" 0.043302"/>
+</LDGM>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>3500000</MinFileSize>
+<MaxFileSize>4000000</MaxFileSize>
+<PayloadSize>512</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0.12</MinEpsilon>
+<MaxEpsilon>0.2</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>1.5060651720648832</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="0.66398189039120725"/>
+<LDGM>
+<WeightRecord Weight="8" Fraction=" 0.482436"/>
+<WeightRecord Weight="50" Fraction=" 0.008803"/>
+<WeightRecord Weight="7" Fraction=" 0.388689"/>
+<WeightRecord Weight="500" Fraction=" 0.044412"/>
+<WeightRecord Weight="51" Fraction=" 0.075661"/>
+</LDGM>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>4000000</MinFileSize>
+<MaxFileSize>4500000</MaxFileSize>
+<PayloadSize>1024</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0.12</MinEpsilon>
+<MaxEpsilon>0.2</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>1.4818278198418871</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="0.67484223646624564"/>
+<LDGM>
+<WeightRecord Weight="8" Fraction=" 0.762122"/>
+<WeightRecord Weight="7" Fraction=" 0.109956"/>
+<WeightRecord Weight="500" Fraction=" 0.046250"/>
+<WeightRecord Weight="55" Fraction=" 0.003871"/>
+<WeightRecord Weight="54" Fraction=" 0.077801"/>
+</LDGM>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>4500000</MinFileSize>
+<MaxFileSize>5000000</MaxFileSize>
+<PayloadSize>1024</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0.12</MinEpsilon>
+<MaxEpsilon>0.2</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>1.460772930882019</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="0.68456909274475475"/>
+<LDGM>
+<WeightRecord Weight="52" Fraction=" 0.000120"/>
+<WeightRecord Weight="8" Fraction=" 0.835231"/>
+<WeightRecord Weight="53" Fraction=" 0.083986"/>
+<WeightRecord Weight="500" Fraction=" 0.047609"/>
+<WeightRecord Weight="9" Fraction=" 0.033054"/>
+</LDGM>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>5000000</MinFileSize>
+<MaxFileSize>5500000</MaxFileSize>
+<PayloadSize>1024</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0.12</MinEpsilon>
+<MaxEpsilon>0.2</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>1.4421923162612111</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="0.6933888003178621"/>
+<LDGM>
+<WeightRecord Weight="8" Fraction=" 0.597334"/>
+<WeightRecord Weight="56" Fraction=" 0.073271"/>
+<WeightRecord Weight="500" Fraction=" 0.049091"/>
+<WeightRecord Weight="9" Fraction=" 0.272446"/>
+<WeightRecord Weight="55" Fraction=" 0.007859"/>
+</LDGM>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>5500000</MinFileSize>
+<MaxFileSize>6000000</MaxFileSize>
+<PayloadSize>1024</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0.12</MinEpsilon>
+<MaxEpsilon>0.2</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>1.4255877871019995</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="0.70146504413652844"/>
+<LDGM>
+<WeightRecord Weight="8" Fraction=" 0.469497"/>
+<WeightRecord Weight="57" Fraction=" 0.040542"/>
+<WeightRecord Weight="500" Fraction=" 0.049884"/>
+<WeightRecord Weight="9" Fraction=" 0.400854"/>
+<WeightRecord Weight="58" Fraction=" 0.039223"/>
+</LDGM>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>6000000</MinFileSize>
+<MaxFileSize>6500000</MaxFileSize>
+<PayloadSize>1536</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0.12</MinEpsilon>
+<MaxEpsilon>0.2</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>1.4105960259982309</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="0.70892018804060786"/>
+<LDGM>
+<WeightRecord Weight="59" Fraction=" 0.000488"/>
+<WeightRecord Weight="8" Fraction=" 0.211928"/>
+<WeightRecord Weight="60" Fraction=" 0.077829"/>
+<WeightRecord Weight="500" Fraction=" 0.051585"/>
+<WeightRecord Weight="9" Fraction=" 0.658169"/>
+</LDGM>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>6500000</MinFileSize>
+<MaxFileSize>7000000</MaxFileSize>
+<PayloadSize>1536</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0.12</MinEpsilon>
+<MaxEpsilon>0.2</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>1.3969442039405455</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="0.71584820437292163"/>
+<LDGM>
+<WeightRecord Weight="8" Fraction=" 0.067635"/>
+<WeightRecord Weight="61" Fraction=" 0.030641"/>
+<WeightRecord Weight="500" Fraction=" 0.052500"/>
+<WeightRecord Weight="9" Fraction=" 0.802402"/>
+<WeightRecord Weight="62" Fraction=" 0.046822"/>
+</LDGM>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>7000000</MinFileSize>
+<MaxFileSize>7500000</MaxFileSize>
+<PayloadSize>1536</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0.12</MinEpsilon>
+<MaxEpsilon>0.2</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>1.3844224110808503</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="0.72232289220114332"/>
+<LDGM>
+<WeightRecord Weight="61" Fraction=" 0.003367"/>
+<WeightRecord Weight="500" Fraction=" 0.054474"/>
+<WeightRecord Weight="10" Fraction=" 0.190974"/>
+<WeightRecord Weight="9" Fraction=" 0.676113"/>
+<WeightRecord Weight="62" Fraction=" 0.075072"/>
+</LDGM>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>7500000</MinFileSize>
+<MaxFileSize>8000000</MaxFileSize>
+<PayloadSize>2048</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0.12</MinEpsilon>
+<MaxEpsilon>0.2</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>1.3728658099159696</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="0.72840330990631053"/>
+<LDGM>
+<WeightRecord Weight="63" Fraction=" 0.000627"/>
+<WeightRecord Weight="64" Fraction=" 0.076610"/>
+<WeightRecord Weight="500" Fraction=" 0.055541"/>
+<WeightRecord Weight="10" Fraction=" 0.367430"/>
+<WeightRecord Weight="9" Fraction=" 0.499794"/>
+</LDGM>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>8000000</MinFileSize>
+<MaxFileSize>9000000</MaxFileSize>
+<PayloadSize>2048</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0.12</MinEpsilon>
+<MaxEpsilon>0.2</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>1.3621426756317057</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="0.73413748639527887"/>
+<LDGM>
+<WeightRecord Weight="66" Fraction=" 0.075170"/>
+<WeightRecord Weight="500" Fraction=" 0.056667"/>
+<WeightRecord Weight="10" Fraction=" 0.560892"/>
+<WeightRecord Weight="9" Fraction=" 0.306513"/>
+<WeightRecord Weight="65" Fraction=" 0.000759"/>
+</LDGM>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>9000000</MinFileSize>
+<MaxFileSize>10000000</MaxFileSize>
+<PayloadSize>2048</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0.12</MinEpsilon>
+<MaxEpsilon>0.2</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>1.3427883603739561</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="0.74471899631413829"/>
+<LDGM>
+<WeightRecord Weight="11" Fraction=" 0.042265"/>
+<WeightRecord Weight="64" Fraction=" 0.000664"/>
+<WeightRecord Weight="500" Fraction=" 0.059118"/>
+<WeightRecord Weight="10" Fraction=" 0.821476"/>
+<WeightRecord Weight="65" Fraction=" 0.076478"/>
+</LDGM>
+</CodeParameters>
+</MessageCodingData>
+<MessageCodingData>
+<MinFileSize>10000000</MinFileSize>
+<MaxFileSize>15000000</MaxFileSize>
+<PayloadSize>2048</PayloadSize>
+<EpsilonRange>
+<MinEpsilon>0.12</MinEpsilon>
+<MaxEpsilon>0.2</MaxEpsilon>
+</EpsilonRange>
+<N_Over_K>1.3257084758046616</N_Over_K>
+<CodeParameters>
+<Systematic Weight="1" Fraction="0.75431365058825084"/>
+<LDGM>
+<WeightRecord Weight="11" Fraction=" 0.335411"/>
+<WeightRecord Weight="64" Fraction=" 0.000492"/>
+<WeightRecord Weight="500" Fraction=" 0.060455"/>
+<WeightRecord Weight="10" Fraction=" 0.530801"/>
+<WeightRecord Weight="65" Fraction=" 0.072843"/>
+</LDGM>
+</CodeParameters>
+</MessageCodingData>
+</MessageCodingDataList>

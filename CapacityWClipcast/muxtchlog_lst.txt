@@ -1,0 +1,4 @@
+/opt/mf/var/log/Performance/tom/20070915_0021_16RTV			/opt/mf/var/log/TchLogs/20070915_0821
+/opt/mf/var/log/Performance/tom/20070915_0821_16RTV			/opt/mf/var/log/TchLogs/20070915_1621
+/opt/mf/var/log/Performance/tom/20070915_1622_16RTV			/opt/mf/var/log/TchLogs/20070916_0022
+/opt/mf/var/log/Performance/tom/20070916_0022_16RTV			/opt/mf/var/log/TchLogs/20070916_0822
